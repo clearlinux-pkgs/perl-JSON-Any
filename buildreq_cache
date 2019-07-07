@@ -1,0 +1,6 @@
+1.39
+perl(Test::Fatal)
+perl(Test::Requires)
+perl(Test::Warnings)
+perl(Test::Without::Module)
+perl(Try::Tiny)
