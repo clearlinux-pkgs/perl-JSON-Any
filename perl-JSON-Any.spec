@@ -4,7 +4,7 @@
 #
 Name     : perl-JSON-Any
 Version  : 1.39
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-Any-1.39.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-Any-1.39.tar.gz
 Summary  : '(DEPRECATED) Wrapper Class for the various JSON classes'
@@ -102,4 +102,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/JSON/Any.pm
+/usr/lib/perl5/vendor_perl/5.30.3/JSON/Any.pm
