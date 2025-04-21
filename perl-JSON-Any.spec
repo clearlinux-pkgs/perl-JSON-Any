@@ -7,7 +7,7 @@
 #
 Name     : perl-JSON-Any
 Version  : 1.40
-Release  : 22
+Release  : 23
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-Any-1.40.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-Any-1.40.tar.gz
 Summary  : '(DEPRECATED) Wrapper Class for the various JSON classes'
